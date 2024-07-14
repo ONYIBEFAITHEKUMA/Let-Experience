@@ -6,11 +6,9 @@ const Testimonial = () => {
        <div className='flex relative'>
         <h1>
 CHARTING NEW HORIZONS:</h1>
-<p>
-TxE Africas scholarship propelled me to chart new horizons in the tech world. Their support has paved the path to success, ensuring that I'm well-equipped to make my mark in the tech industry, taking as many people along with me.
-
-Seyi Peters, Sr. Frontend Developer.
+<p>Seyi Peters, Sr. Frontend Developer.
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic suscipit officiis architecto, ullam quo soluta perferendis. Quam maiores ea impedit veniam tempore labore iste ex delectus deserunt, iusto laudantium sed?</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit asperiores ex maiores, voluptatum recusandae ab similique eveniet, consequatur suscipit officiis non praesentium doloremque maxime quisquam modi quidem eligendi expedita vitae.</p>
        </div>
      
     </div>
